@@ -36,7 +36,7 @@ The Amplify Console will fork this repo in your GitHub account, and then build a
 
 ![img](src/images/amplify-pull.mov)
 
-4. Run locally
+4. Run locally 
 
   ```
   npm start
